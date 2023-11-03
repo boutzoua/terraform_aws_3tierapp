@@ -1,7 +1,6 @@
-# Medium Document link 
-https://medium.com/@Yogesh_agrawal/three-tier-architecture-with-aws-9ea10f5a65c
+Build a 3 Tier App Using Aws & Terraform 
 
 
 # There Tier architectture
 
-<img src=https://github.com/yogeshagrawal11/cloud/blob/master/aws/3%20Tier%20app/Multi%20AZ%20-%203%20tier%20application.png>
+<img src=https://github.com/boutzoua/terraform_aws_3tierapp/blob/main/3tierappimage.jpg>
